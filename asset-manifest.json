@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ReactFact/static/css/main.ef19f42d.css",
+    "main.js": "/ReactFact/static/js/main.ffcac260.js",
+    "index.html": "/ReactFact/index.html",
+    "main.ef19f42d.css.map": "/ReactFact/static/css/main.ef19f42d.css.map",
+    "main.ffcac260.js.map": "/ReactFact/static/js/main.ffcac260.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef19f42d.css",
+    "static/js/main.ffcac260.js"
+  ]
+}
